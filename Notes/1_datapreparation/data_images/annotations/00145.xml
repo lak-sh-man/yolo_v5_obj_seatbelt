@@ -1,0 +1,26 @@
+<annotation>
+	<folder>With Seatbelt</folder>
+	<filename>00145.jpg</filename>
+	<path>C:\Users\1494\Desktop\With Seatbelt\00145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>With Seatbelt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>137</ymin>
+			<xmax>769</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Without Seatbelt</folder>
+	<filename>00723.jpg</filename>
+	<path>C:\Users\1494\Desktop\Without Seatbelt\00723.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Without Seatbelt</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>58</ymin>
+			<xmax>831</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>
